@@ -2,3 +2,5 @@ src/
 .vscode
 test/.Vagrant/
 00-myDevNetwork.ps1
+!.vscode/launch.json
+!.vscode/tasks.json
